@@ -31,9 +31,9 @@ git:
         url: https://github.com/getgrav/grav-plugin-langswitcher
         path: user/plugins/langswitcher
         branch: master
-    saba:
-        url: https://github.com/CaribThemes/grav-theme-saba
-        path: user/themes/saba
+    tintamarre:
+        url: https://github.com/CaribThemes/grav-theme-tintamarre
+        path: user/themes/tintamarre
         branch: master
 links:
     error:
@@ -68,7 +68,7 @@ links:
         src: grav-plugin-langswitcher
         path: user/plugins/langswitcher
         scm: github
-    saba:
-        src: grav-theme-saba
-        path: user/themes/saba
+    tintamarre:
+        src: grav-theme-tintamarre
+        path: user/themes/tintamarre
         scm: github
